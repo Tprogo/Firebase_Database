@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "425858632270",
+    "project_id": "f-database-work-manager",
+    "storage_bucket": "f-database-work-manager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425858632270:android:bc5dd83063741e3982511f",
+        "android_client_info": {
+          "package_name": "com.example.f_databaseworkmanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0hX5AfZtsEufBZ3BmwVm7xHjNXP1sXGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
